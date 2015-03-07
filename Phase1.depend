@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1425284812 source:e:\fci\year 3\second term\graphics\project\phase1\main.cpp
+	"LineAlgorithms.h"
+	<tchar.h>
+	<windows.h>
+
+1425284446 source:e:\fci\year 3\second term\graphics\project\phase1\src\linealgorithms.cpp
+	"LineAlgorithms.h"
+
+1425284446 e:\fci\year 3\second term\graphics\project\phase1\include\linealgorithms.h
+	<tchar.h>
+	<windows.h>
+	<math.h>
+
